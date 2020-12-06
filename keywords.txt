@@ -1,0 +1,10 @@
+lis3dh	KEYWORD1
+setup	KEYWORD2
+detect	KEYWORD2
+range_get	KEYWORD2
+range_set	KEYWORD2
+sampling_get	KEYWORD2
+sampling_set	KEYWORD2
+activity_configure	KEYWORD2
+activity_int2_routed_set	KEYWORD2
+axis_enabled_set	KEYWORD2
